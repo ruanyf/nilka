@@ -1,21 +1,21 @@
 {
-  "name": "usu",
+  "name": "nilka",
   "version": "0.0.1",
   "description": "a command-line utility to resize images in batches",
   "scripts": {
     "test": "tape test/*.test.js | tap-spec"
   },
   "bin": {
-    "usu": "./bin/index.js"
+    "nilka": "./bin/index.js"
   },
   "keywords": [
     "image"
   ],
   "author": "Ruan Yifeng",
-  "homepage": "https://github.com/ruanyf/usu",
+  "homepage": "https://github.com/ruanyf/nilka",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruanyf/usu.git"
+    "url": "https://github.com/ruanyf/nilka.git"
   },
   "license": "MIT",
   "dependencies": {
