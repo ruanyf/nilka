@@ -1,6 +1,6 @@
 {
   "name": "nilka",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "a command-line utility to resize images in batches",
   "scripts": {
     "test": "tape test/*.test.js | tap-spec"
